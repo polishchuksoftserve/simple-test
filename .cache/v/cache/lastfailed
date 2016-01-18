@@ -1,0 +1,4 @@
+{
+  "cli-testing.py::test_persistent_storage_is_ready": true, 
+  "cli-testing.py::test_persistent_storage_status": true
+}
